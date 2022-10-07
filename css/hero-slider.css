@@ -179,8 +179,8 @@ Hero Slider - by CodyHouse.co
 }
 
 .cd-hero__slide:first-of-type {
-  background-color: #E65100;
-  background: linear-gradient(to right,rgb(99, 26, 26), rgb(58, 7, 7) );
+  background-color: #784212;
+  background: linear-gradient(to right,#784212, #784212 );
   /* background-image: url(../uploads/slider-01.jpg); */
 }
 

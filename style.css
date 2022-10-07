@@ -325,7 +325,10 @@ a img.aligncenter {
 }
 
 .header-nav .navbar-brand {
-	color: #111111;
+	color: #FFFFF0;
+    background-color: #784212;
+    border-radius: 5px 15px;
+    padding: 40px;
 	font-weight: 800;
 	position: relative;
 	font-size: 23px;
