@@ -696,17 +696,16 @@ body.app_version .header_style_01.fixed-menu{
 }
 
 
-.about-right h2{
-	font-size: 32px;
-	font-weight: 600;
+.about-right ul{
+	font-size: 20px;
+    color: black;
 }
-.about-right p{
-	font-size: 16px; 
-	font-weight: 300;
+.about-right:hover{
+    color: rgb(99, 26, 26);
 }
-
-
-
+.about-right ul:hover{
+    color: rgb(99, 26, 26);
+}
 .services-inner-box{
 	padding: 15px;
 	background: #ffffff;
