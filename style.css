@@ -22,11 +22,9 @@
 -------------------------------------------------------------------*/
 
 body {
-    color: #999;
     font-size: 15px;
     font-family: Arial, Helvetica, sans-serif;
     font-style: italic;
-    font-weight: bold;
     line-height: 1.10857;
 }
 
@@ -325,8 +323,8 @@ a img.aligncenter {
 }
 
 .header-nav .navbar-brand {
-	color: #FFFFF0;
-    background-color: #784212;
+	color: blanchedalmond;
+    
     border-radius: 5px 15px;
     padding: 40px;
 	font-weight: 800;
@@ -694,14 +692,14 @@ body.app_version .header_style_01.fixed-menu{
 	top: 0px;
 	z-index: 0;
 }
-
+.about-right h3{
+    font-weight: bold;
+}
 
 .about-right ul{
 	font-size: 20px;
     color: black;
-}
-.about-right:hover{
-    color: rgb(99, 26, 26);
+    cursor: pointer;
 }
 .about-right ul:hover{
     color: rgb(99, 26, 26);
@@ -1228,6 +1226,7 @@ body.app_version .bootstrap-select .btn-light:hover{
 }
 
 .footer {
+    margin-top: 20px;
     padding: 40px !important;
     color: #999;
     background-color: #1f1f1f;
@@ -1240,6 +1239,7 @@ body.app_version .bootstrap-select .btn-light:hover{
 	width: 100%;
 }
 .subscribe-text h3{
+    margin-top: 80px;
 	font-size: 34px;
 	color: #fff;
 	font-weight: 600;
