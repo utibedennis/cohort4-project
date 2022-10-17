@@ -353,9 +353,7 @@
 	.cd-hero__content.cd-hero__content--full-width, .cd-hero__content.cd-hero__content--half-width{
 		padding-bottom: 100px;
 	}
-	.mobilescreen-image {
-		display: none;
-	}
+	
 	.swiper-slide.swiper-slide-active .post-media img{
 		border-radius: 0px;
 	}
